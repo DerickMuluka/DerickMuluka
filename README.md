@@ -2,7 +2,7 @@
 - A Passionate Software Developer 
 - 🌱 I’m currently learning at Taita Taveta University 
 - I’m looking to collaborate on Java, PHP, Javascript Projects 
-- 📫 How to reach me at mulukaderick@gmail.com I'll try to respond as soon as I can
+- 📫 You can reach on email me at mulukaderick@gmail.com I'll try to respond as soon as I can
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm funny and full of humor 
 
