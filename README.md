@@ -1,44 +1,48 @@
 # Hi 👋, I'm Derick Muluka  
 
-🎓 Recently graduated with a **BSc in Information Technology** from **Taita Taveta University**.  
-💻 A passionate developer converting ideas into reality with code.  
+🎓 Graduated with a **BSc in Information Technology**  
+💻 Passionate developer converting ideas into reality with code  
+
+---
+
+## 📫 Contact Me  
+
+<span style="font-size:18px; color:#ff4b4b; font-weight:bold;">📧 mulukaderick@gmail.com</span>  
 
 ---
 
 ## 👨‍💻 About Me  
-- 🌱 Currently sharpening my skills in **Next.js, React, Tailwind CSS, and Django**.  
-- 🔭 Experienced in building **scalable desktop applications** with **Java Swing & MySQL**.  
-- 👯 Looking to collaborate on impactful projects in **Web Development & IT Solutions**.  
-- 💬 Always open to discussions around **software engineering, system design, and ICT innovations**.  
-- 📫 Reach me at: **mulukaderick@gmail.com**  
-- ⚡ Fun fact: I enjoy solving complex challenges by breaking them into simple, efficient solutions.  
+- 🔭 Experienced in creating **dynamic web applications** and **desktop solutions**.  
+- 👯 Open to collaborations on impactful **Web Development & IT projects**.  
+- 💬 Always ready to discuss **software engineering, system design, and ICT innovations**.  
+- ⚡ Fun fact: I love solving complex problems by breaking them into simple solutions.  
+- 🤝 I look forward to collaborations and building innovative solutions together.  
 
 ---
 
-## 📊 GitHub Stats & Progress  
+## 📊 GitHub Stats & Languages  
 
-![Derick's GitHub stats](https://github-readme-stats.vercel.app/api?username=DerickMuluka&show_icons=true&theme=radical)  
+<div align="center">  
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DerickMuluka&layout=compact&theme=radical)  
+<a href="https://github.com/DerickMuluka">  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DerickMuluka&show_icons=true&theme=radical" />  
+</a>  
+<a href="https://github.com/DerickMuluka">  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DerickMuluka&layout=compact&langs_count=8&theme=radical" />  
+</a>  
 
-![GitHub Streak](https://streak-stats.demolab.com?user=DerickMuluka&theme=radical&border_radius=8)  
-
----
-
----
-
-## 🚀 Tech Stack  
-
-**Languages & Frameworks I’m Proficient In:**  
-- 🌐 HTML | CSS | JavaScript (ES6+) | Next.js | React | Tailwind CSS  
-- ⚙️ PHP | Django | Node.js | REST APIs  
-- 💾 MySQL | PostgreSQL  
-- 💻 Java (Swing) | Python  
+</div>  
 
 ---
 
-## 🎯 Growth Mindset  
+## 🚀 Skills Progress (Auto-Generated)  
 
-I actively track my **progress in programming languages and technologies** to monitor my strengths and improve where needed. The above charts show my **real-time GitHub activity** and language usage to help me grow consistently.  
+![Skills Progress](https://github-readme-stats.vercel.app/api/top-langs/?username=DerickMuluka&layout=donut&theme=radical)  
+
+---
+
+## 📈 Contribution Activity  
+
+![Derick's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DerickMuluka&theme=radical&hide_border=true)  
 
 ---
