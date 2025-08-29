@@ -25,10 +25,6 @@
 
 ---
 
-## 🏆 Achievements  
-
-![trophy](https://github-profile-trophy.vercel.app/?username=DerickMuluka&theme=radical&margin-w=10&margin-h=10&column=7)  
-
 ---
 
 ## 🚀 Tech Stack  
