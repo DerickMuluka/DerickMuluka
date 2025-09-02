@@ -5,12 +5,6 @@
 
 ---
 
-## 📫 Contact Me  
-
-<span style="font-size:18px; color:#ff4b4b; font-weight:bold;">📧 mulukaderick@gmail.com</span>  
-
----
-
 ## 👨‍💻 About Me  
 - 🔭 Experienced in creating **dynamic web applications** and **desktop solutions**.  
 - 👯 Open to collaborations on impactful **Web Development & IT projects**.  
@@ -20,12 +14,22 @@
 
 ---
 
+## 📫 Contact Me  
+
+<div align="center" style="background-color:#f8f9fa; padding:10px; border-radius:10px; width:fit-content; margin:auto;">
+  <span style="font-size:20px; color:#ff4b4b; font-weight:bold;">
+    📧 mulukaderick@gmail.com
+  </span>
+</div>  
+
+---
+
 ## 📊 GitHub Stats & Languages  
 
 <div align="center">  
 
 <a href="https://github.com/DerickMuluka">  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DerickMuluka&show_icons=true&theme=radical" />  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DerickMuluka&show_icons=true&include_all_commits=true&count_private=true&theme=radical" />  
 </a>  
 <a href="https://github.com/DerickMuluka">  
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DerickMuluka&layout=compact&langs_count=8&theme=radical" />  
@@ -35,14 +39,18 @@
 
 ---
 
-## 🚀 Skills Progress (Auto-Generated)  
+## 🚀 Skills Progress  
 
-![Skills Progress](https://github-readme-stats.vercel.app/api/top-langs/?username=DerickMuluka&layout=donut&theme=radical)  
+<div align="center">  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DerickMuluka&layout=donut&theme=radical" />  
+</div>  
 
 ---
 
 ## 📈 Contribution Activity  
 
-![Derick's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DerickMuluka&theme=radical&hide_border=true)  
+<div align="center">  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DerickMuluka&theme=radical&hide_border=true" />  
+</div>  
 
 ---
