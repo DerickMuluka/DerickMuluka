@@ -22,16 +22,28 @@
   </table>
 </div>  
 
-## 📊 GitHub Stats & Top Languages  
+---
+
+## 📊 GitHub Stats & Languages  
 
 <div align="center">  
   <a href="https://github.com/DerickMuluka">  
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DerickMuluka&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide=prs,issues&cache_seconds=1800" />  
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DerickMuluka&show_icons=true&include_all_commits=true&count_private=true&hide=contribs&theme=radical&cache_seconds=1800" />  
   </a>  
   <a href="https://github.com/DerickMuluka">  
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DerickMuluka&layout=compact&langs_count=10&theme=radical&cache_seconds=1800" />  
   </a>  
 </div>  
+
+---
+
+## 📈 Contribution Activity  
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DerickMuluka&theme=radical&bg_color=1a1a1a&color=e91e63&line=ff9800&point=ffffff&hide_border=true" width="100%"/>
+</div>  
+
+---
 
 ## 🔗 Useful Links  
 
