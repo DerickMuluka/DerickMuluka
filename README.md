@@ -15,8 +15,8 @@
 <div align="center">
   <table>
     <tr>
-      <td align="center" bgcolor="#dbeafe" style="border-radius:12px; padding:15px 25px; border:2px solid #1e40af;">
-        <b><span style="font-size:20px; color:#1e40af;">📧 mulukaderick@gmail.com</span></b>
+      <td align="center" bgcolor="#e0f7fa" style="border-radius:12px; padding:15px 25px; border:2px solid #006064;">
+        <b><span style="font-size:20px; color:#006064;">📧 mulukaderick@gmail.com</span></b>
       </td>
     </tr>
   </table>
@@ -27,10 +27,10 @@
 <div align="center">  
 
 <a href="https://github.com/DerickMuluka">  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DerickMuluka&show_icons=true&include_all_commits=true&count_private=true&theme=radical&cache_seconds=3600" />  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DerickMuluka&show_icons=true&include_all_commits=true&count_private=true&theme=radical&cache_seconds=1800&v=1" />  
 </a>  
 <a href="https://github.com/DerickMuluka">  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DerickMuluka&layout=compact&langs_count=8&theme=radical&cache_seconds=3600" />  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DerickMuluka&layout=compact&langs_count=8&theme=radical&cache_seconds=1800&v=1" />  
 </a>  
 
 </div>  
@@ -38,11 +38,11 @@
 ## 🚀 Skills Progress  
 
 <div align="center">  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DerickMuluka&layout=donut&theme=radical&cache_seconds=3600" />  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DerickMuluka&layout=donut&theme=radical&cache_seconds=1800&v=1" />  
 </div>  
 
 ## 📈 Contribution Activity  
 
 <div align="center">  
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DerickMuluka&theme=radical&hide_border=true&cache_seconds=3600" />  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DerickMuluka&theme=radical&hide_border=true&v=1" />  
 </div>  
