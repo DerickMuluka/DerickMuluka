@@ -12,11 +12,11 @@
 
 ## 📫 Contact Me  
 
-<div align="center">  
+<div align="center">
   <table>
     <tr>
-      <td align="center" bgcolor="#f2f2f2" style="border-radius:10px; padding:12px 20px;">
-        <b><span style="font-size:18px; color:#d93025;">📧 mulukaderick@gmail.com</span></b>
+      <td align="center" bgcolor="#ffecec" style="border-radius:12px; padding:15px 25px; border:2px solid #d93025;">
+        <b><span style="font-size:20px; color:#d93025;">📧 mulukaderick@gmail.com</span></b>
       </td>
     </tr>
   </table>
@@ -27,10 +27,10 @@
 <div align="center">  
 
 <a href="https://github.com/DerickMuluka">  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DerickMuluka&show_icons=true&include_all_commits=true&count_private=true&theme=radical" />  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DerickMuluka&show_icons=true&include_all_commits=true&count_private=true&theme=radical&cache_seconds=1800" />  
 </a>  
 <a href="https://github.com/DerickMuluka">  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DerickMuluka&layout=compact&langs_count=8&theme=radical" />  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DerickMuluka&layout=compact&langs_count=8&theme=radical&cache_seconds=1800" />  
 </a>  
 
 </div>  
@@ -38,11 +38,11 @@
 ## 🚀 Skills Progress  
 
 <div align="center">  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DerickMuluka&layout=donut&theme=radical" />  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DerickMuluka&layout=donut&theme=radical&cache_seconds=1800" />  
 </div>  
 
 ## 📈 Contribution Activity  
 
 <div align="center">  
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DerickMuluka&theme=radical&hide_border=true" />  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DerickMuluka&theme=radical&hide_border=true&cache_seconds=1800" />  
 </div>  
