@@ -37,14 +37,6 @@
 
 ---
 
-## 📈 Contribution Activity  
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DerickMuluka&theme=radical&bg_color=1a1a1a&color=e91e63&line=ff9800&point=ffffff&hide_border=true" width="100%"/>
-</div>  
-
----
-
 ## 🔗 Useful Links  
 
 <div align="center">
