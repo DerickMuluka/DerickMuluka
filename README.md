@@ -27,10 +27,10 @@
 <div align="center">  
 
 <a href="https://github.com/DerickMuluka">  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DerickMuluka&show_icons=true&include_all_commits=true&count_private=true&theme=radical&cache_seconds=1800&v=1" />  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DerickMuluka&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide=prs,issues&cache_seconds=1800&v=2" />  
 </a>  
 <a href="https://github.com/DerickMuluka">  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DerickMuluka&layout=compact&langs_count=8&theme=radical&cache_seconds=1800&v=1" />  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DerickMuluka&layout=compact&langs_count=10&theme=radical&cache_seconds=1800&v=2" />  
 </a>  
 
 </div>  
@@ -38,11 +38,16 @@
 ## 🚀 Skills Progress  
 
 <div align="center">  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DerickMuluka&layout=donut&theme=radical&cache_seconds=1800&v=1" />  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DerickMuluka&layout=donut&theme=radical&langs_count=10&cache_seconds=1800&v=2" />  
 </div>  
 
 ## 📈 Contribution Activity  
 
 <div align="center">  
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DerickMuluka&theme=radical&hide_border=true&v=1" />  
+  <img src="https://activity-graph.herokuapp.com/graph?username=DerickMuluka&theme=react-dark&custom_title=Derick's+GitHub+Activity&hide_border=true&v=2" />  
 </div>  
+
+## 🔗 Useful Links  
+- [Portfolio](https://derickmuluka.vercel.app)  
+- [LinkedIn](https://www.linkedin.com/in/derickmuluka/)  
+- [GitHub](https://github.com/DerickMuluka)  
