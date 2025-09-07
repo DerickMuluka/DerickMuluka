@@ -33,11 +33,11 @@
 <div align="center">  
 
 <a href="https://github.com/DerickMuluka">  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DerickMuluka&show_icons=true&include_all_commits=true&count_private=true&hide=contribs&theme=radical&cache_seconds=600" />  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DerickMuluka&show_icons=true&include_all_commits=true&count_private=true&hide=contribs&theme=radical&cache_seconds=1800&v=1" />  
 </a>  
 
 <a href="https://github.com/DerickMuluka">  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DerickMuluka&layout=compact&langs_count=10&theme=radical&cache_seconds=600" />  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DerickMuluka&layout=compact&langs_count=10&theme=radical&cache_seconds=1800&v=1" />  
 </a>  
 
 </div>  
